@@ -1,0 +1,142 @@
+Dear B3,
+
+Thank you for your hard work in interpreting this passage. I can see that you have made a genuine effort to follow the source text and capture its overall structure. You successfully identified the main topic (green energy) and many key ideas, which shows that your listening comprehension is developing well. However, there are significant issues with information completeness, fluency, and target language quality that we need to work on together. Below is my detailed feedback, segment by segment.
+
+---
+
+**Segment 1:**
+
+Source: 绿色能源是指对环境影响较小的能源。常见的绿色能源包括太阳能、风能和水能。与煤炭和石油相比，这些能源更加清洁。它们可以帮助我们减少空气污染。现在，越来越多的国家开始使用绿色能源。
+
+**Information completeness:**
+You correctly conveyed the core idea that green energy has a small environmental impact and that common types include solar, wind, and water energy. However, there are several inaccuracies:
+- You said "small impacts on economicy" before self-correcting to "Environment" — the word "economicy" is not a word, and the initial rendition distorted the meaning (the source is about the environment, not the economy).
+- You omitted "与煤炭和石油相比" (compared with coal and oil) — you mentioned "oil" but did not clearly convey the comparison with coal.
+- You said "help air pollution" instead of "help reduce air pollution" — this actually reverses the meaning (helping air pollution vs. helping reduce air pollution).
+- You omitted "现在" (now/nowadays) in the final sentence, though "nowadays" appeared earlier in a slightly different position.
+
+**Fluency of delivery:**
+There are noticeable repetitions and fillers: "I is um," "help uh help," and the self-correction from "economicy" to "Environment." The phrase "which is more clean than oil" is followed by a dangling "Energy" before the next sentence begins. These disruptions affect the flow of delivery.
+
+**Target language quality:**
+- "small import，small impacts on economicy" — "import" is unclear; "economicy" is not a word.
+- "The common green energy have wind，water，solar energies" — subject-verb agreement error ("energy have" should be "energy sources include"); "energies" is not typically used in this way.
+- "which is more clean than oil" — "more clean" should be "cleaner"; also, the comparison should include coal.
+- "help air pollution" — missing "reduce."
+- "More and more countries use green energies" — acceptable but "are starting to use" would be more precise.
+
+**Suggestions for improvement:**
+- Practice distinguishing similar-sounding words (environment vs. economy) and make sure your self-corrections are clean and quick.
+- Pay attention to comparison structures: "compared with A and B" should include both items.
+- Remember that "help" in this context means "help reduce," not "help" directly.
+- Work on subject-verb agreement and word forms (clean → cleaner).
+
+**Revised interpretation:**
+Green energy refers to energy sources that have a relatively small impact on the environment. Common types of green energy include solar power, wind power, and hydropower. Compared with coal and oil, these energy sources are cleaner. They can help us reduce air pollution. Today, more and more countries are beginning to use green energy.
+
+---
+
+**Segment 2:**
+
+Source: 太阳能是一种重要的绿色能源。太阳每天都会给我们带来大量的能量。我们可以利用太阳能电池板来发电。现在，一些家庭已经在屋顶安装了太阳能设备。这样不仅可以节省电费，还可以减少对传统能源的使用。
+
+**Information completeness:**
+You conveyed that solar energy is important and that the sun provides a lot of energy. However, there are major omissions and distortions:
+- You said "The sun can prove the large value of energies" — this is a mistranslation. The source says the sun brings us a large amount of energy every day, not that it "proves the large value."
+- You said "The s sonar can be collected by by a factories" — "sonar" is a completely different word (sound navigation), and "collected by factories" is inaccurate. The source is about using solar panels to generate electricity.
+- You completely omitted the idea of installing solar equipment on rooftops and the benefits of saving electricity bills and reducing traditional energy use. This is a significant loss of information.
+
+**Fluency of delivery:**
+There are multiple repetitions: "by by," "saw saw," "the sauars," and incomplete phrases like "Many people can saw saw collected the sauars to provide energies，" followed by a comma and then "it can save power." The delivery is disjointed and hard to follow.
+
+**Target language quality:**
+- "prove the large value" — incorrect word choice; should be "provides us with a lot of energy."
+- "sonar" — wrong word; should be "solar energy" or "solar power."
+- "collected by factories" — inaccurate; solar energy is captured by solar panels, not collected by factories.
+- "Many people can saw saw collected" — grammatically incorrect and unclear.
+- "it can save power in and use of tradition，traditional energy" — incomplete and ungrammatical.
+
+**Suggestions for improvement:**
+- Focus on key vocabulary: solar panels (太阳能电池板), generate electricity (发电), rooftop (屋顶), electricity bills (电费).
+- Practice listening for specific details (rooftops, saving money, reducing traditional energy) and make sure to include them.
+- Avoid guessing words that sound similar (sonar vs. solar) — if unsure, use a simpler paraphrase like "solar energy."
+- Work on sentence completeness: each sentence should have a clear subject and verb.
+
+**Revised interpretation:**
+Solar power is an important type of green energy. The sun provides us with a large amount of energy every day. We can use solar panels to generate electricity. Today, some families have installed solar equipment on their roofs. This not only saves money on electricity bills but also reduces the use of traditional energy.
+
+---
+
+**Segment 3:**
+
+Source: 近年来，中国的绿色能源发展得很快。中国生产了大量的太阳能电池板和风力发电设备。与此同时，越来越多的人开始购买电动汽车。政府也鼓励企业使用清洁能源。这些措施有助于保护环境，改善人们的生活。
+
+**Information completeness:**
+You captured the general idea that China's green energy is developing fast and that more people are buying electric devices. However, there are inaccuracies and omissions:
+- "China green energies's development is fast" — you conveyed the idea but the grammar is flawed.
+- "more and more people prove more and more" — this is unclear and does not convey the source meaning (China produces a large number of solar panels and wind power equipment).
+- "So power Anda times more and more people buy energies，device" — this is confusing. You mentioned "buy energies, device" but the source specifically says "electric cars" (电动汽车). You omitted "solar panels and wind power equipment" entirely.
+- You omitted "The government also encourages companies to use clean energy" — actually you did mention "the government also encourages the company use the green energies," which is good, but "company" should be plural.
+- You conveyed "protect the environment" and "improve the daily life," which is correct.
+
+**Fluency of delivery:**
+There are repetitions and fillers: "more and more people prove more and more," "So power Anda times," and "the company use the green energies." The phrase "These situations will can protection，protect，protect the environment" shows hesitation and self-correction.
+
+**Target language quality:**
+- "China green energies's development is fast" — awkward; better: "China's green energy industry has developed rapidly."
+- "prove more and more" — incorrect; should be "produces a large number of."
+- "buy energies，device" — unclear; should be "buy electric cars."
+- "These situations will can protection" — grammatically incorrect; "will can" is not acceptable; "protection" is a noun, not a verb.
+- "the company use" — should be "companies to use."
+
+**Suggestions for improvement:**
+- Learn key vocabulary: electric cars (电动汽车), solar panels (太阳能电池板), wind power equipment (风力发电设备).
+- Practice sentence structures with "not only... but also" and "encourage someone to do something."
+- Avoid vague words like "situations" and "device" — be specific.
+- Review modal verbs: "will" and "can" cannot be used together.
+
+**Revised interpretation:**
+In recent years, China's green energy industry has developed rapidly. China produces a large number of solar panels and wind power equipment. At the same time, more and more people are buying electric cars. The government also encourages companies to use clean energy. These measures help protect the environment and improve people's lives.
+
+---
+
+**Segment 4:**
+
+Source: 未来，绿色能源将发挥越来越重要的作用。更多的国家会投资太阳能和风能。各国也需要加强合作，分享技术和经验。当然，发展绿色能源还需要时间和资金。我们每个人也可以从小事做起，比如节约用电，减少浪费。保护环境是我们共同的责任。
+
+**Information completeness:**
+You conveyed that green energy will play a greater role and that more countries will use solar and wind energy. You also mentioned cooperation and sharing technology and experience, and the need for time and money. However, there are inaccuracies:
+- "Thes have great role in the many place" — unclear; should be "will play an increasingly important role."
+- "more and more countries use the solar energy and wind energies" — you omitted "invest in" (投资).
+- "but many countries need cooperation" — the source says "各国也需要加强合作" (countries also need to strengthen cooperation), not "but."
+- "We have we need to spend more time and money to development the the to develop the green technologies" — you conveyed the idea but with repetition and grammatical errors.
+- "people also can you can save the uh energies such as so the power in the decline，the west of energies" — this is very unclear. You attempted "节约用电，减少浪费" but "the power in the decline" and "the west of energies" are not accurate. "West" is likely a mishearing of "waste."
+- You omitted "保护环境是我们共同的责任" (Protecting the environment is our shared responsibility) entirely.
+
+**Fluency of delivery:**
+There are multiple repetitions and self-corrections: "We have we need," "to development the the to develop," "you can save the uh energies," "so the power in the decline." The delivery is fragmented and difficult to follow.
+
+**Target language quality:**
+- "Thes have great role in the many place" — grammatically incorrect and vague.
+- "but many countries need cooperation" — "but" is not appropriate; also "need cooperation" should be "need to strengthen cooperation."
+- "to development the the to develop" — "development" is a noun; should be "to develop."
+- "the power in the decline，the west of energies" — unclear and inaccurate; "west" is not "waste."
+- Missing the final sentence entirely.
+
+**Suggestions for improvement:**
+- Practice the phrase "play an increasingly important role" and "invest in."
+- Learn to distinguish "waste" (浪费) from "west" (西方) — these are very different.
+- Make sure to include the concluding sentence — it is an important part of the message.
+- Work on sentence boundaries: avoid stringing together incomplete clauses.
+
+**Revised interpretation:**
+In the future, green energy will play an increasingly important role. More countries will invest in solar and wind power. Countries also need to strengthen cooperation and share technology and experience. Of course, developing green energy requires time and money. Each of us can also start with small things, such as saving electricity and reducing waste. Protecting the environment is our shared responsibility.
+
+---
+
+**Overall concluding comment:**
+
+B3, you have a good foundation in listening comprehension and you clearly understand the main ideas of the passage. Your biggest challenges are in vocabulary accuracy (e.g., solar vs. sonar, waste vs. west), grammatical control (subject-verb agreement, modal verbs, word forms), and fluency (repetitions, fillers, and incomplete sentences). I encourage you to practice shadowing short segments, build your vocabulary for common topics like energy and environment, and record yourself to monitor your fluency. With consistent practice, you will see steady improvement. Keep up the effort — you are on the right track!
+
+Best regards,
+Your Instructor

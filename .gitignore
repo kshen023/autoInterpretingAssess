@@ -1,0 +1,17 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Audio files
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.aac
+*.wma
+*.ogg
+
+# Python cache
+__pycache__/
+*.pyc

@@ -1,0 +1,128 @@
+Dear G4,
+
+Thank you for your hard work in interpreting this passage on green energy. You clearly grasped the overall structure and main ideas of the source speech, and you managed to convey the broad message across all four segments. Your willingness to keep going even when facing challenging expressions is commendable. Below is detailed feedback to help you sharpen both accuracy and delivery.
+
+---
+
+**Segment 1**
+
+*Source:* 绿色能源是指对环境影响较小的能源。常见的绿色能源包括太阳能、风能和水能。与煤炭和石油相比，这些能源更加清洁。它们可以帮助我们减少空气污染。现在，越来越多的国家开始使用绿色能源。
+
+**Information completeness:**
+You conveyed the core idea that green energy has a smaller environmental impact and that it includes solar, wind, and water power. However, there are several inaccuracies:
+- "which kind to environment" is unclear and does not convey "对环境影响较小" (smaller impact on the environment).
+- "compared to oil and fossil energy" — the source says "煤炭和石油" (coal and oil). "Fossil energy" is a broader category and "coal" is omitted. This is an inaccurate rendition.
+- "more and more um helpful to reduce air pollution" distorts the meaning. The source states that green energy "可以帮助我们减少空气污染" (can help us reduce air pollution), not that it is "helpful to reduce air pollution" in a vague sense.
+- "has become to use green energy" is an inaccurate rendition of "开始使用" (are starting to use).
+
+**Fluency of delivery:**
+There are several filled pauses ("uh," "um") and a false start ("which kind to environment"). The phrase "more and more um helpful" shows hesitation mid-sentence. These disruptions make the delivery less smooth.
+
+**Target language quality:**
+- "is referred to the energy kind" — grammatically incorrect. Should be "refers to energy that…" or "is energy that…"
+- "more clean" — should be "cleaner."
+- "has become to use" — incorrect structure. Should be "have started to use" or "are beginning to use."
+- "countries has" — subject-verb agreement error; should be "countries have."
+
+**Suggestions for improvement:**
+- Pay close attention to the specific energy sources mentioned (coal and oil, not "fossil energy").
+- Practice using comparative forms correctly ("cleaner," not "more clean").
+- Work on sentence planning to reduce false starts and fillers.
+
+**Revised interpretation:**
+Green energy refers to energy that has a relatively small impact on the environment. Common types of green energy include solar power, wind power, and hydropower. Compared with coal and oil, these energy sources are cleaner. They can help us reduce air pollution. Today, more and more countries are starting to use green energy.
+
+---
+
+**Segment 2**
+
+*Source:* 太阳能是一种重要的绿色能源。太阳每天都会给我们带来大量的能量。我们可以利用太阳能电池板来发电。现在，一些家庭已经在屋顶安装了太阳能设备。这样不仅可以节省电费，还可以减少对传统能源的使用。
+
+**Information completeness:**
+You captured the main points about solar energy being important, the sun providing energy, and families installing solar equipment on rooftops. However:
+- "not only could save the money on either many family began to use solar energy on their rooftop" is garbled and merges two separate ideas (using solar panels to generate electricity, and families installing solar equipment). The detail about using solar panels to generate electricity (利用太阳能电池板来发电) is essentially lost.
+- "reduce the the play of energy" is unclear — it seems you meant "reduce the use of energy," but the source specifically says "减少对传统能源的使用" (reduce the use of traditional energy). The word "traditional" is missing.
+- "which not only reduce the the play of energy, um, but also reduce the you use of traditional energy" — the logical relationship is reversed. The source says saving money on electricity bills AND reducing use of traditional energy, not reducing energy use AND reducing traditional energy use.
+
+**Fluency of delivery:**
+This segment contains noticeable repetition ("the the," "it's it's"), a false start ("not only could save the money on either many family began to…"), and a filler ("um"). The sentence structure becomes disjointed, making it hard for the listener to follow.
+
+**Target language quality:**
+- "one of in it's it's a important green energy" — grammatically broken. Should be "one of the important types of green energy" or "an important type of green energy."
+- "on their rooftop" — should be "on their roofs" (plural) or "on their rooftops."
+- "the play of energy" — unclear word choice; likely meant "the use of energy."
+
+**Suggestions for improvement:**
+- Break long sentences into shorter, clearer ones. For example: "We can use solar panels to generate electricity. Today, some families have installed solar equipment on their roofs."
+- Make sure to include key qualifiers like "traditional" (传统能源).
+- Practice the structure "not only… but also…" to express it smoothly.
+
+**Revised interpretation:**
+Solar power is an important type of green energy. The sun provides us with a lot of energy every day. We can use solar panels to generate electricity. Today, some families have installed solar equipment on their roofs. This not only saves them money on electricity bills but also reduces the use of traditional energy.
+
+---
+
+**Segment 3**
+
+*Source:* 近年来，中国的绿色能源发展得很快。中国生产了大量的太阳能电池板和风力发电设备。与此同时，越来越多的人开始购买电动汽车。政府也鼓励企业使用清洁能源。这些措施有助于保护环境，改善人们的生活。
+
+**Information completeness:**
+You conveyed that China's green energy is developing quickly and that China produces solar and wind equipment. However, there are significant omissions and distortions:
+- "China product mainly solar and wind instruction" — "instruction" is a mistranslation of "设备" (equipment). Also, "大量的" (a large number of) is not conveyed.
+- The entire sentence about more and more people buying electric cars (越来越多的人开始购买电动汽车) is **omitted**.
+- The government encouraging companies to use clean energy (政府也鼓励企业使用清洁能源) is **omitted**.
+- "This activities only to protect the environment, but also those activities not only not all not only protect environment, but also in improve our life" — this is extremely garbled and does not clearly convey "这些措施有助于保护环境，改善人们的生活" (These measures help protect the environment and improve people's lives).
+
+**Fluency of delivery:**
+This segment shows severe disfluency: multiple false starts ("Recently Chinese green energies。Recently the develop the develop of Chinese green energy。Recently the development of Chinese green energy is increase repeatedly"), repetition, and incomplete sentences. The phrase "not only not all not only" is a series of self-corrections that never resolves into a clear statement.
+
+**Target language quality:**
+- "product" used as a verb — should be "produces."
+- "instruction" — wrong word; should be "equipment."
+- "is increase repeatedly" — grammatically incorrect; should be "has been increasing rapidly" or "has developed quickly."
+- "in improve our life" — should be "improve our lives."
+
+**Suggestions for improvement:**
+- Make sure to include all key information points. In this segment, the electric car detail and government encouragement are important and should not be omitted.
+- When you feel a sentence going wrong, stop and restart cleanly rather than layering correction upon correction.
+- Practice paraphrasing "设备" as "equipment" or "facilities."
+
+**Revised interpretation:**
+In recent years, China's green energy has developed rapidly. China produces a large number of solar panels and wind power equipment. At the same time, more and more people are buying electric cars. The government also encourages companies to use clean energy. These measures help protect the environment and improve people's lives.
+
+---
+
+**Segment 4**
+
+*Source:* 未来，绿色能源将发挥越来越重要的作用。更多的国家会投资太阳能和风能。各国也需要加强合作，分享技术和经验。当然，发展绿色能源还需要时间和资金。我们每个人也可以从小事做起，比如节约用电，减少浪费。保护环境是我们共同的责任。
+
+**Information completeness:**
+You conveyed the general ideas: green energy will play a more important role, more countries will develop solar and wind energy, countries should cooperate and share technology and experience, development needs time and money, and everyone can take action in daily life. However:
+- "More and more country has become to develop solar and wind energy" — the source says "更多的国家会投资" (will invest in), not "develop." Also "country" should be plural.
+- "We every people could take activity in the daily life" — the source says "从小事做起" (start with small things), not "take activity." The specific example of "节约用电" (saving electricity) is **omitted**; you only mentioned "减少浪费" (reducing waste).
+- "Protect environment is everyone's responsibility" — the source says "我们共同的责任" (our shared responsibility). "Everyone's responsibility" is close but slightly shifts the emphasis from "shared" to "individual."
+
+**Fluency of delivery:**
+There is a filler ("Oh"), repetition ("in in the world"), and some hesitation. The segment is relatively smoother than Segment 3 but still contains disfluencies.
+
+**Target language quality:**
+- "will plays" — should be "will play."
+- "More and more country has become to develop" — should be "More and more countries will invest in."
+- "every countries should c cooperated" — should be "all countries should cooperate."
+- "the develop of green energy also need" — should be "the development of green energy also needs."
+- "We every people could take activity" — should be "Each of us can start with small things."
+- "Protect environment" — should be "Protecting the environment."
+
+**Suggestions for improvement:**
+- Include all examples given in the source (saving electricity AND reducing waste).
+- Pay attention to subject-verb agreement and plural forms ("countries," "needs").
+- Practice using "invest in" and "start with small things" as set phrases.
+
+**Revised interpretation:**
+In the future, green energy will play an increasingly important role. More countries will invest in solar and wind power. Countries also need to strengthen cooperation and share technology and experience. Of course, developing green energy takes time and money. Each of us can also start with small things, such as saving electricity and reducing waste. Protecting the environment is our shared responsibility.
+
+---
+
+**Overall concluding comment:**
+
+G4, you have a solid grasp of the overall content and structure of the passage, and you successfully conveyed the main themes of green energy, solar power, China's development, and future cooperation. Your biggest areas for growth are: (1) including all key information points without omissions, (2) reducing false starts and self-corrections by planning sentences before speaking, and (3) improving grammatical accuracy, especially with plural forms, verb tenses, and comparative structures. With regular practice in retelling and shadowing, you will see steady improvement. Keep up the good work!

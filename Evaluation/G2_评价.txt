@@ -1,0 +1,154 @@
+Dear G2,
+
+Thank you for your hard work in interpreting this passage. You have clearly grasped the overall structure and main ideas of the source text, and you managed to convey most of the key information. Your interpretation shows a good understanding of the topic. At the same time, there are areas where accuracy, fluency, and language quality can be improved. Below is detailed feedback segment by segment.
+
+---
+
+**Segment 1:**
+
+Source: 绿色能源是指对环境影响较小的能源。常见的绿色能源包括太阳能、风能和水能。与煤炭和石油相比，这些能源更加清洁。它们可以帮助我们减少空气污染。现在，越来越多的国家开始使用绿色能源。
+
+**Information completeness:**
+You conveyed the core idea that green energy has a low impact on the environment and that common types include solar, wind, and water energy. However, there are several inaccuracies:
+- "绿色能源" was rendered as "green resources" — it should be "green energy." "Resources" and "energy" are not interchangeable here.
+- "水能" was rendered as "the world power, water, water energy" — this is confusing and inaccurate. "Hydropower" or "water energy" would be correct.
+- "煤炭" was rendered as "carpet" — this is a serious mistranslation. "Coal" is the correct word.
+- "它们可以帮助我们减少空气污染" was rendered as "The green air resources is cleaner, 这样to reduce the air pollution" — the meaning is partially conveyed but the expression is unclear and mixes Chinese ("这样") into the English output.
+
+**Fluency of delivery:**
+There are several disfluencies:
+- "The green resources is the resources that has a low influence to the environment said the common green resources has..." — the sentence is disjointed and lacks clear structure.
+- Repetition: "water, water energy," "one is one uh import an important resources."
+- Filled pauses: "uh," "um" appear frequently.
+- The phrase "这样to reduce" shows a code-switching slip that disrupts fluency.
+
+**Target language quality:**
+- Grammar: "The green resources is" — subject-verb agreement error (should be "are" or better, restructure). "resources that has" — should be "have."
+- Word choice: "influence to the environment" — better: "impact on the environment." "Carpet" for "coal" is a major vocabulary error.
+- Sentence structure: The first sentence is overly long and lacks clear boundaries. It reads as a run-on sentence.
+- "said the common green resources" — "said" is inappropriate here; you likely meant "it is said that" or simply "common green energy includes..."
+
+**Suggestions for improvement:**
+- Pay attention to key vocabulary: "coal" (煤炭), "hydropower" (水能), "green energy" (绿色能源).
+- Practice breaking long sentences into shorter, clearer ones.
+- Avoid mixing Chinese words into English output.
+- Review subject-verb agreement and article usage.
+
+**Revised interpretation:**
+Green energy refers to energy sources that have a relatively small impact on the environment. Common types of green energy include solar power, wind power, and hydropower. Compared with coal and oil, these energy sources are cleaner. They can help us reduce air pollution. Today, more and more countries are beginning to use green energy.
+
+---
+
+**Segment 2:**
+
+Source: 太阳能是一种重要的绿色能源。太阳每天都会给我们带来大量的能量。我们可以利用太阳能电池板来发电。现在，一些家庭已经在屋顶安装了太阳能设备。这样不仅可以节省电费，还可以减少对传统能源的使用。
+
+**Information completeness:**
+- You correctly stated that solar energy is an important green energy and that the sun gives us plenty of energy every day.
+- "太阳能电池板" was rendered as "electric board" — this is inaccurate. The correct term is "solar panels."
+- "发电" was rendered as "make use of these energy with the help of electric board" — the idea of generating electricity is not clearly conveyed. You should say "use solar panels to generate electricity."
+- "一些家庭已经在屋顶安装了太阳能设备" was rendered as "more and more people choose to make an electric board on their roof" — this changes "some families have already installed" to "more and more people choose to make," which distorts the meaning. Also, "make" is not the right verb; "install" is correct.
+- "节省电费" was rendered as "save the electric" — this is incomplete; it should be "save on electricity bills."
+- "减少对传统能源的使用" was rendered as "reduce the use of the traditional resources" — acceptable, though "traditional energy" is more precise.
+
+**Fluency of delivery:**
+- Repetition: "choose to choose to make," "one is one uh import an important resources."
+- Filled pauses: "uh," "um" appear multiple times.
+- Self-correction: "one is one uh import an important resources" — you started to say something, then corrected yourself, which disrupts flow.
+- "electric board" is repeated, showing uncertainty about the term.
+
+**Target language quality:**
+- Grammar: "these energy" — should be "this energy" or "these energy sources." "make an electric board on their roof" — awkward; "install solar panels on their roofs" is correct.
+- Word choice: "electric board" is not a standard term. Use "solar panels." "Import an important" — you likely meant "important," but the phrasing is garbled.
+- Sentence structure: "not only save the electric, but also can reduce" — the parallel structure is broken. Better: "not only saves on electricity bills but also reduces the use of traditional energy."
+
+**Suggestions for improvement:**
+- Learn and practice key technical terms: "solar panels" (太阳能电池板), "generate electricity" (发电), "install" (安装).
+- Be careful not to change the meaning of the source (e.g., "some families" vs. "more and more people").
+- Practice using parallel structures with "not only... but also..."
+
+**Revised interpretation:**
+Solar power is an important type of green energy. The sun provides us with a large amount of energy every day. We can use solar panels to generate electricity. Today, some families have already installed solar equipment on their roofs. This not only helps them save on electricity bills but also reduces the use of traditional energy.
+
+---
+
+**Segment 3:**
+
+Source: 近年来，中国的绿色能源发展得很快。中国生产了大量的太阳能电池板和风力发电设备。与此同时，越来越多的人开始购买电动汽车。政府也鼓励企业使用清洁能源。这些措施有助于保护环境，改善人们的生活。
+
+**Information completeness:**
+- You correctly conveyed that China's green energy has developed quickly and that China produces many solar panels and wind power equipment.
+- "风力发电设备" was rendered as "wind powered wind powered machines" — this is repetitive and not quite accurate. "Wind power equipment" or "wind turbines" would be better.
+- "电动汽车" was rendered as "electric cars" — correct.
+- "政府也鼓励企业使用清洁能源" — correctly conveyed.
+- "这些措施有助于保护环境，改善人们的生活" was rendered as "not only can protect our environment, but also can change our living levels" — "change our living levels" is not accurate. The source means "improve people's lives," not "change living levels." Also, "not only... but also" was not in the source; the source simply says "help protect the environment and improve people's lives."
+
+**Fluency of delivery:**
+- Repetition: "wind powered wind powered machines," "invest, invest" (in the next segment).
+- Filled pauses: "um" appears several times.
+- The phrase "people produce in the industry, produced many electric board" shows hesitation and self-correction.
+
+**Target language quality:**
+- Grammar: "China's green resources has developed" — should be "has developed" (correct) but "resources" should be "energy." "people more and more people choose" — redundant; should be "more and more people are choosing."
+- Word choice: "change our living levels" — awkward and inaccurate. Use "improve people's lives."
+- Sentence structure: "not only can protect our environment, but also can change our living levels" — the subject is missing. Better: "These measures help protect the environment and improve people's lives."
+
+**Suggestions for improvement:**
+- Avoid unnecessary repetition (e.g., "wind powered wind powered").
+- Pay attention to the exact meaning of phrases like "改善人们的生活" — it means "improve people's lives," not "change living levels."
+- Practice summarizing lists of measures in a clear, concise way.
+
+**Revised interpretation:**
+In recent years, China's green energy industry has developed rapidly. China has produced a large number of solar panels and wind power equipment. At the same time, more and more people are buying electric cars. The government also encourages companies to use clean energy. These measures help protect the environment and improve people's lives.
+
+---
+
+**Segment 4:**
+
+Source: 未来，绿色能源将发挥越来越重要的作用。更多的国家会投资太阳能和风能。各国也需要加强合作，分享技术和经验。当然，发展绿色能源还需要时间和资金。我们每个人也可以从小事做起，比如节约用电，减少浪费。保护环境是我们共同的责任。
+
+**Information completeness:**
+- You correctly conveyed that green energy will play a more important role in the future and that more countries will invest in solar and wind power.
+- "各国也需要加强合作，分享技术和经验" was rendered as "between among countries, we should we should call cooperate more and share the technology and experience with each other" — the idea is there, but "call cooperate" is not correct; you likely meant "cooperate" or "work together." Also, "between among" is a self-correction.
+- "发展绿色能源还需要时间和资金" was rendered as "the development of green resources need time and money" — "need" should be "needs" (subject-verb agreement). "Resources" should be "energy."
+- "我们每个人也可以从小事做起" was rendered as "in the point from the.of normal people. We can do some small things" — this is garbled and unclear. The meaning is roughly there but the expression is broken.
+- "节约用电，减少浪费" was rendered as "save resources, reduce the waste" — "save resources" is not accurate; it should be "save electricity." "Reduce waste" is correct.
+- "保护环境是我们共同的责任" was rendered as "because the because to protect the environment is our common duty" — the meaning is correct, but the delivery is disfluent.
+
+**Fluency of delivery:**
+- Repetition: "invest, invest," "we should we should call cooperate," "between among," "because the because."
+- Filled pauses: "uh" appears several times.
+- Incomplete sentences: "in the point from the.of normal people" — this is fragmented and unclear.
+- Self-corrections: "between among," "because the because."
+
+**Target language quality:**
+- Grammar: "the development of green resources need" — should be "needs." "we should call cooperate" — "call" is incorrect; should be "cooperate" or "work together."
+- Word choice: "normal people" — better: "ordinary people" or "each of us." "save resources" — should be "save electricity."
+- Sentence structure: "in the point from the.of normal people" — this is not a complete or meaningful phrase. It should be restructured as "As ordinary people, we can also start with small things..."
+- "because the because to protect" — redundant and ungrammatical.
+
+**Suggestions for improvement:**
+- Practice using clear transitional phrases (e.g., "Of course," "At the same time," "As individuals").
+- Pay attention to subject-verb agreement (e.g., "development... needs").
+- Avoid self-corrections like "between among" and "because the because" — pause and think before speaking to reduce these.
+- Learn fixed expressions: "work together" (加强合作), "save electricity" (节约用电), "shared responsibility" (共同的责任).
+
+**Revised interpretation:**
+In the future, green energy will play an increasingly important role. More countries will invest in solar and wind power. Countries also need to strengthen cooperation and share technology and experience. Of course, developing green energy requires time and money. Each of us can also start with small things, such as saving electricity and reducing waste. Protecting the environment is our shared responsibility.
+
+---
+
+**Overall comments:**
+
+You have a good grasp of the main ideas and structure of the source text. Your interpretation covers most of the key points, which is a solid foundation. To improve, focus on the following:
+
+1. **Vocabulary accuracy:** Pay special attention to key terms like "coal," "solar panels," "hydropower," and "generate electricity." Building a glossary of common terms in this topic area will help.
+2. **Fluency:** Reduce filled pauses ("uh," "um") and self-corrections by practicing more and planning your sentences before speaking. Try to speak in shorter, complete sentences.
+3. **Grammar:** Review subject-verb agreement, article usage, and parallel structures.
+4. **Avoid code-switching:** Do not mix Chinese words (e.g., "这样") into your English output.
+5. **Meaning precision:** Be careful not to change the meaning of the source (e.g., "some families" vs. "more and more people"; "improve people's lives" vs. "change living levels").
+
+With continued practice and attention to these areas, you will see steady improvement. Keep up the good work!
+
+Best regards,
+Your Instructor
